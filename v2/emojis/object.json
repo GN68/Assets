@@ -89,6 +89,15 @@
     "\uE04C": ["mic", "microphone"],
     "\uE04D": ["muted_mic","microphone_muted"],
     "\uE04E": ["speaking","microphone_speaking"],
-    "\uE04F": ["singing","microphone_singing"]
+    "\uE04F": ["singing","microphone_singing"],
+
+    "\uE050": ["pooltoy_valve"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
   }
 }
